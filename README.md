@@ -1,2 +1,4 @@
 # c_dec20162
-C code for subject DEC20162 (Fundamental Programming)
+This repo contains some C code for DEC20162 (Fundamental Programming)
+
+Feel free to modify this at your own discretion!
