@@ -1,4 +1,5 @@
-# DEC20162 (Fundamental Programming) Sesi II (2024/2025)\
+# DEC20162 (Fundamental Programming)
+Sesi II (2024/2025)\
 
 **Topics and Files**\
 factorial.c - Chapter 3 AI exercise\
