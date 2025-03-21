@@ -1,3 +1,6 @@
+// Program to take 6 values from the user and store them in an array
+// Print the elements stored in the array
+
 #include <stdio.h>
 
 int main() {
@@ -10,11 +13,12 @@ int main() {
         scanf("%d", &age[i]);
     }
 
-    printf("Displaying children ages");
+    printf("Displaying children ages ");
 
     // printing elements of an array
-    for (int i = 0; i< 6; ++i) {
+    for(int i = 0; i < 6; ++i) {
         printf("%d\n", age[i]);
     }
+
     return 0;
 }
